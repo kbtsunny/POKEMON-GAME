@@ -1,0 +1,73 @@
+[
+    {
+        "rank": 1,
+        "speed": 3,
+        "power": 4,
+        "name": "Pikachu",
+        "image":"src\\assets\\name_1.png"
+    },
+    {
+        "rank": 2,
+        "speed": 1,
+        "power": 5,
+        "name": "Fuecoco",
+        "image":"src\\assets\\name_2.png"
+    },
+    {
+        "rank": 3,
+        "speed": 2,
+        "power": 1,
+        "name": "sprigatito",
+        "image":"src\\assets\\name_3.png"
+    },
+    {
+        "rank": 4,
+        "speed": 5,
+        "power": 2,
+        "name": "Quaxly",
+        "image":"src\\assets\\name_4.png"
+    },
+    {
+        "rank": 5,
+        "speed": 4,
+        "power": 3,
+        "name": "Yanma",
+        "image":"src\\assets\\name_5.png"
+    },
+    {
+        "rank": 5,
+        "speed": 1,
+        "power": 3,
+        "name": "Fletchling",
+        "image":"src\\assets\\name_6.png"
+    },
+    {
+        "rank": 4,
+        "speed": 3,
+        "power": 1,
+        "name": "Charmeleon",
+        "image":"src\\assets\\name_7.png"
+    },
+    {
+        "rank": 3,
+        "speed": 2,
+        "power": 4,
+        "name": "Blatoise",
+        "image":"src\\assets\\name_8.png"
+    },
+    {
+        "rank": 2,
+        "speed": 4,
+        "power": 5,
+        "name": "Lugia",
+        "image":"src\\assets\\name_9.png"
+    },
+    {
+        "rank": 1,
+        "speed": 5,
+        "power": 2,
+        "name": "Mumbreon",
+        "image":"src\\assets\\name_10.png"
+        
+    }
+]
